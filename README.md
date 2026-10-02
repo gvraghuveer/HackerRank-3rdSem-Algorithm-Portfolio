@@ -7,7 +7,7 @@ A collection of algorithmic problem solutions completed as part of the 3rd Semes
 - **Name:** G V Raghuveer
 - **SRN:** R25EF084
 - **Semester:** 3rd Semester
-- **Programming Language:** C++
+- **Programming Language:** C++20
 - **HackerRank Profile:** [https://www.hackerrank.com/profile/gvraghuveer07](https://www.hackerrank.com/profile/gvraghuveer07)
 - **GitHub Repository:** [https://github.com/gvraghuveer/HackerRank-3rdSem-Algorithm-Portfolio](https://github.com/gvraghuveer/HackerRank-3rdSem-Algorithm-Portfolio)
 
@@ -16,7 +16,7 @@ A collection of algorithmic problem solutions completed as part of the 3rd Semes
 This repository contains solutions to five mandatory algorithmic problems covering implementation, arrays, sorting, searching, and greedy algorithms.
 
 Each solution includes:
-- Clean and readable C++ implementation
+- Clean and readable C++20 implementation
 - Time complexity analysis
 - Auxiliary space complexity analysis
 - Brief explanation of the approach
@@ -182,9 +182,9 @@ HackerRank-3rdSem-Algorithm-Portfolio/
 │
 └── 05-Mark-and-Toys/
     └── solution.cpp
-
 ```
 
 ---
 ## Reflection
+
 This activity helped me strengthen my understanding of fundamental algorithms and their efficiency. I practiced different approaches including single-pass array traversal, counting, insertion and shifting, binary search, and greedy problem solving with sorting. Implementing the solutions in C++20 also helped me improve my ability to write structured and readable code. Analyzing time and auxiliary space complexity made me more aware of how algorithm selection affects performance. Completing the HackerRank challenges and earning the Problem Solving 1st Star also provided practical experience in solving problems under a coding-platform environment. Overall, this activity helped connect theoretical algorithm concepts with their practical implementation and encouraged me to focus on writing efficient solutions rather than only obtaining the correct output.
